@@ -18,4 +18,5 @@ The game uses a small set of predefined words and limits incorrect guesses to 6.
 
 ### ▶️ How to Run  
 ```bash
-python hangman.py
+Download or clone this repository:
+git clone https://github.com/OperatorGaurav/codesoft_Task_1
