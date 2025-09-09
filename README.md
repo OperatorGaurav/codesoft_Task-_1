@@ -1,10 +1,3 @@
-# 🎯 Python Mini Projects
-
-This repository contains simple Python projects built for learning **basic programming concepts** like loops, conditionals, functions, dictionaries, file handling, and more.  
-Each project is beginner-friendly and runs directly in the terminal.
-
----
-
 ## 🕹️ Hangman Game
 
 ### 📌 Project Description  
