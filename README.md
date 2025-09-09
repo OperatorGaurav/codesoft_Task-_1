@@ -17,6 +17,5 @@ The game uses a small set of predefined words and limits incorrect guesses to 6.
 - Strings, lists, loops  
 
 ### ▶️ How to Run  
-```bash
 Download or clone this repository:
 git clone https://github.com/OperatorGaurav/codesoft_Task_1
